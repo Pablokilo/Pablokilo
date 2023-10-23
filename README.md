@@ -12,7 +12,7 @@
 
 ```javascript
 const pablokilo = {
-  pronouns: "she" | "her",
+  pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, PHP, Python, Java, C++,Bootstrap,MySQL],
   tools: [],
 }
