@@ -17,7 +17,7 @@ const pablokilo = {
   tools: [],
 }
 ```
-## You can find me🌍:
+## You can find me🌍
  ● [Web](www.pablokilo.com) <br>
  ● [Twitter](https://twitter.com/PablokiloYT) <br>
  ● [Instagram](https://www.instagram.com/pablokilo/)
