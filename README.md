@@ -8,7 +8,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@pablokilo-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/pablokilo/)](https://instagram.com/pablokilo)
 [![GitHub followers](https://img.shields.io/github/followers/Pablokilo.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Pablokilo?tab=followers)
 
-## About me in code
+## About me in code⌨️
 
 ```javascript
 const pablokilo = {
