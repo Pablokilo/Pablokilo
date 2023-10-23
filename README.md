@@ -6,6 +6,8 @@
 [![Website Badge](https://img.shields.io/badge/-pablokilo.com-FF0000?style=flat&logo=Google-Chrome&logoColor=white&link=https://pablokilo.com)](https://pablokilo.com)
 <a href="https://twitter.com/pablokiloyt"><img src= "https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40PablokiloYT" /></a>
 [![Instagram Badge](https://img.shields.io/badge/-@pablokilo-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/pablokilo/)](https://instagram.com/pablokilo)
+[![GitHub followers](https://img.shields.io/github/followers/Pablokilo.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Pablokilo?tab=followers)
+
 ## About me in code
 
 ```javascript
